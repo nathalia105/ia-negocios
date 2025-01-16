@@ -11,6 +11,8 @@ Este projeto visa gerar um eBook digital utilizando ferramentas de Inteligência
 ## Tecnologias Utilizadas
 - **ChatGPT**: Utilizado para gerar o conteúdo textual do eBook.
 - **MidJourney**: Utilizado para criar imagens e capas do eBook.
+- **Gemini**: Utilizado para criar imagens e capas do eBook.
+- **GPT**: Utilizado para criar imagens e capas do eBook.
 - **PowerPoint**: Utilizado para a diagramação do eBook.
 
 ## Prompts Utilizados
