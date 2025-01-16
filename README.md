@@ -69,11 +69,11 @@ O público-alvo do livro são proprietários de empresas e executivos de negóci
 
 ## Features
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via MidJourney, GPT, Gemini
 
 ## Materiais
 - Imagens utilizadas geradas no MidJourney e GPT
-- eBook gerado durante as aulas em DIO
+- eBook gerado durante as aulas em DIO com GPT e Gemini
 
 ## Instruções de Execução
 Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como PowerPoint, LibreOffice, InDesign para diagramação.
