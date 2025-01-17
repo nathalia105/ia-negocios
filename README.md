@@ -83,5 +83,5 @@ Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e
 ## Contato
 👩🏻‍💻 **Nathalia**
 - [GitHub](https://github.com/nathalia105)
-- [LinkedIn](https://www.linkedin.com/in/nathalia105)
-- [Instagram](https://www.instagram.com/nathalia105)
+
+
